@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-
 namespace SpreadOnline.Pages
 {
     public class IndexModel : PageModel
